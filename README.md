@@ -1,3 +1,3 @@
 # Finance-projects
-Using data manipulation in projects connected to finance.
+Using data manipulation and EDA in projects connected to finance.
 
